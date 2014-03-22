@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AirPiano</string>
+    <string name="title_section1">Piano</string>
+    <string name="title_section2">Violin</string>
+    <string name="title_section3">Guitar</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
